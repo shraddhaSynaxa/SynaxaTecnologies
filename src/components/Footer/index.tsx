@@ -50,7 +50,7 @@ const Footer = () => {
                 </a>
 
                 <a
-                  href="https://mail.google.com/mail/?view=cm&fs=1&to=shraddhasalvi272@gmail.com"
+                  href="https://mail.google.com/mail/?view=cm&fs=1&to=hello@synaxatechnologies.com"
                   target="_blank"
                   aria-label="Email"
                   className="text-body-color hover:text-primary dark:text-body-color-dark dark:hover:text-primary duration-300"
@@ -225,7 +225,7 @@ const Footer = () => {
           </ul>
           <div className="mt-4">
             <a
-              href="mailto:careers@yourcompany.com"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=hello@synaxatechnologies.com"
               className="inline-block rounded bg-blue-600 px-4 py-2 text-white hover:bg-blue-700"
             >
               Apply Now

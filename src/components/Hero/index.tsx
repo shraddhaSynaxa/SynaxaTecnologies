@@ -34,7 +34,7 @@ const Hero = () => {
 
           <div className="flex flex-col sm:flex-row sm:justify-start items-center gap-4">
             <a
-              href="https://mail.google.com/mail/?view=cm&fs=1&to=shraddhasalvi272@gmail.com"
+              href="https://mail.google.com/mail/?view=cm&fs=1&to=hello@synaxatechnologies.com"
               target="_blank"
               className="bg-primary hover:bg-primary/80 rounded px-8 py-4 text-base font-semibold text-white transition-all duration-300"
             >
