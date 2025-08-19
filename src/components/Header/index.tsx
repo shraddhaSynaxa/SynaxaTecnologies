@@ -57,7 +57,7 @@ const Header = () => {
                 }`}
               >
                 {/* Light mode text */}
-                <span className="text-primary text-3xl font-bold dark:hidden">
+                <span className="text-blue-800 text-3xl font-bold dark:hidden">
                   Synaxa
                 </span>
 
