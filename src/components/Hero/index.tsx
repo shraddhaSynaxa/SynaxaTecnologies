@@ -28,7 +28,7 @@ const Hero = () => {
             Empowering <span className="text-primary">Every Idea</span> <br />
             <span className="text-gradient">Under One Roof</span>
           </h1>
-          <p className="text-gray-600 dark:text-body-color-dark mb-8 text-base sm:text-lg md:text-xl max-w-lg mx-auto md:mx-0">
+          <p className="text-gray-800 dark:text-body-color-dark mb-8 text-base sm:text-lg md:text-xl max-w-lg mx-auto md:mx-0">
             We bring together innovative products and services to help businesses scale efficiently in the digital era. From management tools to specialized industry solutions, we make ideas thrive.
           </p>
 
